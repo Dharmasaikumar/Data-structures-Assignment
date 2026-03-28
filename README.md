@@ -1,7 +1,8 @@
 # Data Structure Assignment
 
-Name: YOUR NAME  
-Roll Number: YOUR ROLL NUMBER  
+Name:PIKKILI DHARMA SAI KUMAR 
+Roll Number: 66 
+APPLICATION NUMBER:0960
 Course: Introduction to Data Structure  
 
 ## Description
